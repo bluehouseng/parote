@@ -1,4 +1,4 @@
-# Mosaic React
+# Bluehouse Technologies
 
 React landing page template designed by Cruip.
 
